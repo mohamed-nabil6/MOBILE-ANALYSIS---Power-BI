@@ -40,7 +40,10 @@ Each dashboard provides detailed insights into specific aspects of the business,
 - The fourth quarter of 2017 in terms of Total Revenue, Orders, quantity, visitors, and Nonpurchases was higher than the fourth quarter of 2016.
 
 ## Explore the complete interactive dashboard by following this link:
- - [[Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjgyOTE4OTMtNDUwZS00NmU5LWI4Y2UtNzgzYTY3Y2Y3YWEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)](#)
+- [[ interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjgyOTE4OTMtNDUwZS00NmU5LWI4Y2UtNzgzYTY3Y2Y3YWEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)](#) - Provides a high-level summary of the overall business performance.
+ - Analyzes the performance of the e-commerce segment of the business.
+ - Provides a detailed analysis of sales performance, including customer behavior and sales trends.
+
 
 
 ---
